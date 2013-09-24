@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>IKVM</id>
+    <version>7.3.4830.0</version>
+    <title>IKVM.NET</title>
+    <authors>Jeroen Frijters</authors>
+    <owners>Jeroen Frijters</owners>
+    <licenseUrl>http://sourceforge.net/apps/mediawiki/ikvm/index.php?title=License</licenseUrl>
+    <projectUrl>http://www.ikvm.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IKVM.NET is an implementation of Java for Mono and the Microsoft .NET Framework.</description>
+    <releaseNotes>The release notes can be found here: http://ikvm.net/release/7.3.4830.0</releaseNotes>
+    <tags>IKVM.NET Java .NET</tags>
+    <references>
+      <reference file="IKVM.AWT.WinForms.dll" />
+      <reference file="IKVM.OpenJDK.Beans.dll" />
+      <reference file="IKVM.OpenJDK.Charsets.dll" />
+      <reference file="IKVM.OpenJDK.Corba.dll" />
+      <reference file="IKVM.OpenJDK.Core.dll" />
+      <reference file="IKVM.OpenJDK.Jdbc.dll" />
+      <reference file="IKVM.OpenJDK.Management.dll" />
+      <reference file="IKVM.OpenJDK.Media.dll" />
+      <reference file="IKVM.OpenJDK.Misc.dll" />
+      <reference file="IKVM.OpenJDK.Naming.dll" />
+      <reference file="IKVM.OpenJDK.Remoting.dll" />
+      <reference file="IKVM.OpenJDK.Security.dll" />
+      <reference file="IKVM.OpenJDK.SwingAWT.dll" />
+      <reference file="IKVM.OpenJDK.Text.dll" />
+      <reference file="IKVM.OpenJDK.Tools.dll" />
+      <reference file="IKVM.OpenJDK.Util.dll" />
+      <reference file="IKVM.OpenJDK.XML.API.dll" />
+      <reference file="IKVM.OpenJDK.XML.Bind.dll" />
+      <reference file="IKVM.OpenJDK.XML.Crypto.dll" />
+      <reference file="IKVM.OpenJDK.XML.Parse.dll" />
+      <reference file="IKVM.OpenJDK.XML.Transform.dll" />
+      <reference file="IKVM.OpenJDK.XML.WebServices.dll" />
+      <reference file="IKVM.OpenJDK.XML.XPath.dll" />
+      <reference file="IKVM.Runtime.dll" />
+      <reference file="IKVM.Runtime.JNI.dll" />
+    </references>
+  </metadata>
+</package>
